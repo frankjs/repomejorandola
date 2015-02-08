@@ -1,8 +1,9 @@
-Hola Mundo
+Hola Mundo {EDITANDO ESTE ARCHIVO EN NUEVO BRANCH}
 
 Esta es la documentación que he añadido a la información tipada anteriormente.
 
 Comandos utilizados hasta el momento:
+
 
 Git Bash
 cd <directorio> para moverse
@@ -42,3 +43,15 @@ Ahora la tarea es hacerlo a la inversa, meterme en github de nuevo, crear o modi
 tan sencillo como ir a github, modificar el archivo que habia creado y darle extensión a .txt, y añadirle algo de texto, descripción del cambio y commit desde github
 entonces, seguidamente aplico el comando git fetch origin y seguidamente git merge origin/master para sincronizar con mi repositorio local y obtener los cambios, 
 me ha funcionado, así que :)
+
+CREACIÓN DE UN ALIAS PARA ACORTAR COMANDOS CON GIT
+Para crear un alias, por ejemplo para mostrar de manera visual el log de commits y branchs sin tener que escribir el comando largo 
+git log --graph --decorate --oneline podemos crear un alias de manera sencilla, aunque es recomendable conocer bien el 
+comando y estar muy acostumbrado a su uso para decidir acortarlo en un alias y olvidarnos de su practica, es por eso que 
+para principiantes como yo en este momento no es necesario, sin embargo, voy a hacer uno para poner en practica la clase con Mike Nieva de Platzi
+
+lo que hice fue llamar a git config --global alias.vision "log --graph --decorate --oneline", ahora, solo tengo que poner git vision para obtener 
+el resultado del comando largo mencionado anteriormente, muy útil y seguro que tendré que acostumbrarme a ello si decido seguir con este sistema, aunque
+sinceramente, soy del paleolítico y aún me manejo más cómodo por el momento con FTP, veremos de aquí a final de curso :D
+
+Saludos si es que hay alguien que va a leer este parrafo
