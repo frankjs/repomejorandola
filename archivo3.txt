@@ -1,0 +1,3 @@
+pues otra sincronización entre github y orighin/master en local y seguidamente hacer merge para fusionar el repositorio local con
+origin/master y obtener los nuevos archivos o modificaciones generadas en el repositorio remoto de github directamente en nuestro 
+repositorio local, al que podremos acceder siempre que queramos para trabajar incluso cuando no haya internet
