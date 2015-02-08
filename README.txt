@@ -21,6 +21,11 @@ git commit -am "texto descriptivo del cambio" para añadir, realizar cambio y apo
 git push origin master para subir commit local a repositorio github
 touch <archivo.txt> crea un archivo en el repositorio local
 mkdir <nombre> para crear directorios, carpetas
+git fetch origin si no me equivoco, envia los datos del repositorio remoto al repositorio oculto origin/master
+git merge origin/master para fusionar repositorio oculto con repositorio local y obtener los cambios realizados en remoto en nuestro repositorio local
+
+AÑADIDO: origin/master rama intermedia oculta, que deberemos fusionar con master para sincronizar datos modificados en remoto
+a nuestro repositorio local
 
 paso correcto para añadir cambio de un archivo git local a github
 creación o modificación del archivo o en sublime o en consola con touch 
@@ -33,3 +38,7 @@ seguidamente, para subir los cambios y hacer commit con los archivos remotos de 
 git push origin master
 
 Ahora la tarea es hacerlo a la inversa, meterme en github de nuevo, crear o modificar un archivo existente, y enviar los cambios a mi repositorio local.
+
+tan sencillo como ir a github, modificar el archivo que habia creado y darle extensión a .txt, y añadirle algo de texto, descripción del cambio y commit desde github
+entonces, seguidamente aplico el comando git fetch origin y seguidamente git merge origin/master para sincronizar con mi repositorio local y obtener los cambios, 
+me ha funcionado, así que :)
