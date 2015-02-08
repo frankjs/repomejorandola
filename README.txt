@@ -9,6 +9,7 @@ Git Bash
 cd <directorio> para moverse
 cd solo para ir para atras
 git branch <nombre> para crear una branch, rama
+git checkout -b <nombre branch> para crear una branch y saltar a ella directamente
 git branch para listar branchs
 git branch -d <nombre branch para eliminar branch"
 git branch -a para mostrar directorios ocultos
