@@ -13,6 +13,7 @@ git checkout -b <nombre branch> para crear una branch y saltar a ella directamen
 git branch para listar branchs
 git branch -d <nombre branch para eliminar branch"
 git branch -a para mostrar directorios ocultos
+git branch -v te muestra los últimos commits en cada branch dentro del directorio
 git checkout para moverse entre branchs
 git config --global afecta a todo el entorno del usuario
 git merge <nombre branch> para fusionar branch al repositorio donde estamos ubicados
