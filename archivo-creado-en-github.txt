@@ -1,0 +1,3 @@
+Este archivo ha sido creado desde github.
+Este archivo que generé sin extensión, le pongo una extensión .txt para generar un cambio y hacer la sincronización con mi repositorio local.
+Por cierto, ahora mismo no me acuerdo, así que tendré que volver para atrás el video o afinar un poco la memoria ^^
