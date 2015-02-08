@@ -31,3 +31,5 @@ hacer commit con el archivo en nuestro repo local y dejar el comentario descript
 cambio o adición.
 seguidamente, para subir los cambios y hacer commit con los archivos remotos de github, tenemos que aplicar el comando
 git push origin master
+
+Ahora la tarea es hacerlo a la inversa, meterme en github de nuevo, crear o modificar un archivo existente, y enviar los cambios a mi repositorio local.
