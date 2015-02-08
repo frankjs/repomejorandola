@@ -18,3 +18,4 @@ git init para iniciar la actividad de git en una carpeta
 git add -A para añadir a la zona mixta
 git commit -am "texto descriptivo del cambio" para añadir, realizar cambio y aportar mensaje
 git push origin master para subir commit local a repositorio github
+mkdir <archivo.txt> crea un archivo en el repositorio local
