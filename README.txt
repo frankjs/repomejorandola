@@ -15,7 +15,7 @@ git config --global afecta a todo el entorno del usuario
 git merge <nombre branch> para fusionar branch al repositorio donde estamos ubicados
 ls para comprobar archivos y directorios en una carpeta
 git init para iniciar la actividad de git en una carpeta
-git add -A para añadir a la zona mixta
+git add -A para colocar en el disparadero y hacer commit
 git commit -am "texto descriptivo del cambio" para añadir, realizar cambio y aportar mensaje
 git push origin master para subir commit local a repositorio github
 mkdir <archivo.txt> crea un archivo en el repositorio local
