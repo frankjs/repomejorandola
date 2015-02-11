@@ -1,3 +1,5 @@
+﻿Un nuevo commit tras varios días sin practicar, todo bien parece...
+
 Hola Mundo {EDITANDO ESTE ARCHIVO EN NUEVO BRANCH} UN NUEVO DIA Y UN NUEVO ACCESO PARA NO PERDER LA COSTUMBRE
 Ahora lo edito desde GitHub y le hago un fetch y luego un git merge con el origin/master
 Esta es la documentación que he añadido a la información tipada anteriormente.
